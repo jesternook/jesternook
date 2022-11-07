@@ -1,6 +1,6 @@
 <div align="center">
  
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=787E89&width=435&lines=Hello+there%2C+I'm+Nico.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=787E89&center=true&width=435&lines=Hello+there%2C+I'm+Nico.)](https://git.io/typing-svg)
  
 </div> 
 
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/jesternook">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesternook&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&layout=compact&langs_count=7&theme=material-palenight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesternook&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&center=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&layout=compact&langs_count=7&theme=material-palenight&hide_border=true&center=true"/>
 </div>
 
 ## 
