@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="display: inline_block">
 <a href="https://github.com/jesternook"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesternook&repo=github-readme-stat&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&layout=compact&langs_count=8&theme=material-palenight&hide_border=true"/>
