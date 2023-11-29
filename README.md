@@ -16,8 +16,7 @@
 
 <div>
   
-I'm a Junior Full Stack Developer, refining my front/back-end skills. My languages and frameworks of choice are mostly Typescript with Angular and Java with Spring. I'm also a UI Designer. Looking foward to new challenges and opportunities as a Web Developer!
-<img align="right" src="https://64.media.tumblr.com/4a88e801b92c03d3e02d9d195a313fac/tumblr_n25rd2RQc71s3bc1no3_250.gifv" width="100px" height="100px">  
+I'm a Junior Full Stack Developer, refining my front/back-end skills. My languages and frameworks of choice are mostly Typescript with Angular and Java with Spring. Looking foward to new challenges and opportunities as a Software Developer!
  
 </div>
  
