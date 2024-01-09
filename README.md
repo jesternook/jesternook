@@ -1,30 +1,32 @@
-<div align="center">
- 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=7C99AD&width=435&lines=Hello+there%2C+I'm+Nico.)](https://git.io/typing-svg)
- 
-</div> 
+###Olá!
 
-<br>
+Sou Nico, desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.
+
+Possuo experiência prévia em projetos de desenvolvimento full-stack.
+
+Tenho interesse em me especializar em **desenvolvimento android**, atualmente meus estudos estão voltados para este seguimento.
+
+------------
+####Habilidades
+
+✦ Linguagens: ``Javascript``, ``Typescript``, ``Java``, ``C#``, ``Kotlin``
+
+✦ Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``Firebase``
+
+✦ Ferramentas: ``Visual Studio Code``, ``IntelliJ``, ``Android Studio``, ``Postman``, ``Github``, ``Figma``
+
+------------
+
+####Para me contatar
+
+[![Linkedin](https://img.shields.io/badge/linkedin-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nico-rocha/)](https://www.linkedin.com/in/nico-rocha/)
+
+[![Gmail Badge](https://img.shields.io/badge/-email-grey?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicocossta@gmail.com)](mailto:nicocossta@gmail.com)
+
+Estou aberto para me conectar com outros entusiastas de tecnologia, oportunidades de estágio e afins!
 
 <div align="center">
   <a href="https://github.com/jesternook">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jesternook&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&layout=compact&langs_count=7&theme=material-palenight&hide_border=true"/>
 </div>
-
-## 
-
-<div>
-  
-I'm a Junior Full Stack Developer, refining my front/back-end skills. My languages and frameworks of choice are mostly Typescript with Angular and Java with Spring. Looking foward to new challenges and opportunities as a Software Developer!
- 
-</div>
- 
- ##
- 
- <div align="center">
-  
- <a href="https://www.linkedin.com/in/nico-rocha" target="_blank"><img src="https://user-images.githubusercontent.com/99574248/200412935-5274f608-fa64-4e43-ab4a-f42da1ef12f5.png" width="30px" height="30px" target="_blank"></a>
-  <a href="mailto:jesternook@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/99574248/200413036-d76e16de-bd61-47a8-928c-f8d93ecf7b39.png" width="30px" height="30px" target="_blank"></a> 
-
- </div>
