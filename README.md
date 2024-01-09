@@ -1,4 +1,5 @@
-###Olá!
+
+### Olá!
 
 Sou Nico, desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.
 
@@ -7,7 +8,8 @@ Possuo experiência prévia em projetos de desenvolvimento full-stack.
 Tenho interesse em me especializar em **desenvolvimento android**, atualmente meus estudos estão voltados para este seguimento.
 
 ------------
-####Habilidades
+
+#### Habilidades
 
 ✦ Linguagens: ``Javascript``, ``Typescript``, ``Java``, ``C#``, ``Kotlin``
 
@@ -17,10 +19,9 @@ Tenho interesse em me especializar em **desenvolvimento android**, atualmente me
 
 ------------
 
-####Para me contatar
+#### Para me contatar
 
 [![Linkedin](https://img.shields.io/badge/linkedin-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nico-rocha/)](https://www.linkedin.com/in/nico-rocha/)
-
 [![Gmail Badge](https://img.shields.io/badge/-email-grey?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicocossta@gmail.com)](mailto:nicocossta@gmail.com)
 
 Estou aberto para me conectar com outros entusiastas de tecnologia, oportunidades de estágio e afins!
