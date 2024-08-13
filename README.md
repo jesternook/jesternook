@@ -3,14 +3,14 @@
 
 Sou Nico, desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.
 
-Possuo experiência prévia em projetos de desenvolvimento full-stack. Tenho interesse em me especializar em **desenvolvimento android**, atualmente meus estudos estão voltados para este seguimento.
+Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualmente estou estudando sobre: desenvolvimento mobile e cibersegurança. 
 
 
 
 ### Habilidades
 
 - Linguagens: ``Javascript``, ``Typescript``, ``Java``, ``C#``, ``Kotlin``
-- Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``Firebase``
+- Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``Firebase``, ``.NET``
 - Ferramentas: ``Visual Studio Code``, ``IntelliJ``, ``Android Studio``, ``Postman``, ``Github``, ``Figma``
 
 ### Para me contatar
@@ -23,5 +23,5 @@ Estou aberto para me conectar com outros entusiastas de tecnologia, oportunidade
 <div align="left">
   <a href="https://github.com/jesternook">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jesternook&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&layout=compact&langs_count=7&theme=material-palenight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&layout=compact&langs_count=10&theme=material-palenight&hide_border=true"/>
 </div>
