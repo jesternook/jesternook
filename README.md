@@ -3,15 +3,15 @@
 
 Sou Nico, desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.
 
-Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualmente estou estudando sobre: desenvolvimento mobile e cibersegurança. 
+Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualmente estou estudando sobre: desenvolvimento backend, mobile e cibersegurança. 
 
 
 
 ### Habilidades
 
 - Linguagens: ``Javascript``, ``Typescript``, ``Java``, ``C#``, ``Kotlin``
-- Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``Firebase``, ``.NET``
-- Ferramentas: ``Visual Studio Code``, ``IntelliJ``, ``Android Studio``, ``Postman``, ``Github``, ``Figma``
+- Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``SQL Server`` ``Firebase``, ``.NET``
+- Ferramentas: ``Visual Studio Code``, ``IntelliJ``, ``Android Studio``, ``Postman``, ``GIT``, ``Figma``
 
 ### Para me contatar
 
@@ -20,8 +20,10 @@ Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualment
 
 Estou aberto para me conectar com outros entusiastas de tecnologia, oportunidades de estágio e afins!
 
-<div align="left">
-  <a href="https://github.com/jesternook">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jesternook&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&layout=compact&langs_count=8&theme=material-palenight&hide_border=true"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jesternook&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true"/>
+</a>
+<a href="https://github.com/jesternook">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesternook&layout=compact&langs_count=10&card_width=320&theme=material-palenight&hide_border=true" />
+</a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesternook&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=material-palenight&hide_border=true)](https://github.com/jesternook/github-readme-stats) -->
