@@ -1,7 +1,7 @@
 
 ### Olá!
 
-Sou Nico, desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas na PUC Minas.
+Sou Nico, desenvolvedor de software e estudante de Sistemas de Informação na PUC Minas.
 
 Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualmente estou estudando sobre: desenvolvimento backend, mobile e cibersegurança. 
 
