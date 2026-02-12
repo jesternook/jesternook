@@ -3,14 +3,14 @@
 
 Sou Nico, desenvolvedor de software e estudante de Sistemas de Informação na PUC Minas.
 
-Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualmente estou estudando sobre: desenvolvimento backend e cloud computing (aws). 
+Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualmente estou estudando sobre: desenvolvimento backend, cloud computing (aws) e projeto de infraestrutura de rede. 
 
 
 
 ### Habilidades
 
-- Linguagens: ``Javascript``, ``Typescript``, ``Java``, ``C#``, ``Kotlin``
-- Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``SQL Server`` ``Firebase``, ``.NET``
+- Linguagens: ``Javascript``, ``Typescript``, ``Java``, ``C#``, ``Kotlin``, ``SQL``
+- Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``SQL Server``, ``PostgreSQL``, ``Firebase``, ``.NET``
 - Ferramentas: ``Visual Studio Code``, ``IntelliJ``, ``Android Studio``, ``Postman``, ``GIT``, ``Figma``
 
 ### Para me contatar
