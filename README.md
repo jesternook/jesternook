@@ -10,8 +10,9 @@ Possuo experiência prévia em projetos de desenvolvimento full-stack. Atualment
 ### Habilidades
 
 - Linguagens: ``Javascript``, ``Typescript``, ``Java``, ``C#``, ``Kotlin``, ``SQL``
-- Tecnologias: ``Angular``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``SQL Server``, ``PostgreSQL``, ``Firebase``, ``.NET``
+- Tecnologias: ``Angular``, ``React``, ``Material UI``, ``Bootstrap``, ``Spring Boot``, ``MySQL``, ``SQL Server``, ``PostgreSQL``, ``Firebase``, ``.NET``, ``Docker``
 - Ferramentas: ``Visual Studio Code``, ``IntelliJ``, ``Android Studio``, ``Postman``, ``GIT``, ``Figma``
+- Redes e Segurança: Configuração de Firewalls (Cisco ASA) e VPNs, Snort IPS, Segurança de Endpoints, AAA, ACL 
 
 ### Para me contatar
 
